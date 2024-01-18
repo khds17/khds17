@@ -2,9 +2,9 @@
 
 Hi there! It is a pleasure have you here in my profile.
 
-My name is Kauan Henrique, I am from Sumaré/Brazil. I have been working as QA Tester since May of 2019. Since 2021 I have held the Certified Tester Foundation Level Certification.
+My name is Kauan Henrique, I am from Sumaré/Brazil. I have been working as QA Tester since May of 2019. Since 2021 I have CTFL certification by BSTQB.
 
-## Experiences 
+## Work Experiences
 
 ### Testing
 
