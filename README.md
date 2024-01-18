@@ -21,7 +21,7 @@ I have experience with:
   <li> SQL Scripting for Database</li>
 </ul>
 
-Programming and Development
+# Programming and Development
 <ul>
   <li> PHP </li>
   <li> JavaScript </li>
