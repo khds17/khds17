@@ -8,22 +8,24 @@ Since 2021 I have held the Certified Tester Foundation Level Certification.
 
 I have experience with: 
 
-Testing:
+##Testing:
 
-Functional Testing
-Non-functional Testing
-Black box Testing
-Test Automation (Selenium, Cypress, JUnit, RestAssured)
-Test Scripting (Gherkin)
-API Testing (REST and Postman)
-Test Management (Jira and Trello)
-SQL Scripting for Database
+<ul> 
+  <li> Functional Testing </li>
+  <li> Non-functional Testing</li>
+  <li> Black box Testing </li>
+  <li> Test Automation (Selenium, Cypress, JUnit, RestAssured) </li>
+  <li> Test Scripting (Gherkin) </li>
+  <li> API Testing (REST and Postman) </li>
+  <li> Test Management (Jira and Trello) </li>
+  <li> SQL Scripting for Database</li>
+</ul>
 
 Programming and Development:
 <ul>
-<li> PHP </li>
-<li> JavaScript </li>
-<li> Java</li>
+  <li> PHP </li>
+  <li> JavaScript </li>
+  <li> Java</li>
 </ul>
 
 Version Control:
