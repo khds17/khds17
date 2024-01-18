@@ -1,4 +1,4 @@
-### About me!
+👨‍💻 ### About me!
 
 Hi there! It is a pleasure to have you here on my profile.
 
