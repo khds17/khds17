@@ -1,8 +1,8 @@
 ### About me!
 
-Hi there! It is a pleasure have you here in my profile.
+Hi there! It is a pleasure to have you here on my profile.
 
-My name is Kauan Henrique, I am from Sumaré/Brazil. I have been working as QA Tester since May of 2019. Since 2021 I have CTFL certification by BSTQB.
+My name is Kauan Henrique and I am from Sumaré/Brazil. I have been working as QA Tester since May 2019. Since 2021 I have CTFL certification from BSTQB.
 
 ## Work Experiences
 
