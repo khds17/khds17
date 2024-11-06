@@ -20,9 +20,10 @@ My name is Kauan Henrique and I am from Sumaré/Brazil. I have been working as Q
 
 ### Programming and Development
 <ul>
-  <li> PHP </li>
   <li> JavaScript </li>
   <li> Java</li>
+  <li> PHP </li>
+  <li> Python </li>
 </ul>
 
 ### Version Control
